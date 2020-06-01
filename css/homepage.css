@@ -1,0 +1,41 @@
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Courgette', cursive;
+*/ 
+header {
+    background-image: url("../img/header.jpg");
+    background-blend-mode: darken;
+    text-align: center;
+    background-repeat:no-repeat ;
+    background-size: auto;
+    padding: 400px;
+    color: white;
+    
+}
+#article {
+    text-align: center;
+    padding: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+    font-family: 'Courgette', cursive;
+
+footer {
+background-color: black;
+color: white;
+padding-left: 15px;
+
+}
+footer ul li {
+color: white;
+list-style: none;
+
+}
+#pull-right {
+    float: left;
+}
+footer h3 {
+    margin-left: 40px;
+}
+body {
+    font-family: 'Oswald', sans-serif;}
